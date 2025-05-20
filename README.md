@@ -3,7 +3,7 @@
 Памятки для качественного отыгрыша 
 
 <details>
-  <summary><h2> Религия </h2></summary>
+  <summary><h2> ⛪ Религия </h2></summary>
 
   <details>
   <summary> Католическая церковь </summary>
