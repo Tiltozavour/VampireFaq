@@ -109,4 +109,12 @@ _А также_
 
  </details>
 
+<details>
+  <summary><h2> Алкоголь </h2></summary>
+
+
+  
+
+ </details>
+
 
