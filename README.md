@@ -65,6 +65,7 @@ _А также_
 
 </details>
 
+
 <details>
   <summary> Протестантская церковь </summary>
 
@@ -106,9 +107,7 @@ _А также_
 
  </details>
 
-  </details>
-  
-   </details>
+ </details>
 
 
 
